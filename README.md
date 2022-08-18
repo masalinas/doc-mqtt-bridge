@@ -1,7 +1,7 @@
 ## Description
 PoC MQTT Bridge Architecture using HiveMQ
 
-## Installation steps
+## Installation steps
 
 ### STEP01
 
