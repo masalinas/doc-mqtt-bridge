@@ -47,7 +47,7 @@ The configuration would be:
 
 Start cloud mqtt services
 ```
-docker run --name hivemq -p 8081:8081 -p 1884:1884 hivemq/hivemq4
+docker run --name hivemq-cloud -p 8081:8081 -p 1884:1884 hivemq/hivemq4
 ```
 
 Login in proxy services
