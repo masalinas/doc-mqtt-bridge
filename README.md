@@ -3,7 +3,7 @@ PoC MQTT Bridge Architecture using HiveMQ
 
 ## Installation steps
 
-### STEP01
+### STEP01
 
 Start proxy mqtt services
 ```
@@ -43,7 +43,7 @@ The configuration would be:
 </hivemq-bridge-extension>
 ```
 
-### STEP02
+### STEP02
 
 Start cloud mqtt services
 ```
