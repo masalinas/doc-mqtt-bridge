@@ -52,7 +52,7 @@ docker run --name hivemq-cloud -p 8081:8081 -p 1884:1884 hivemq/hivemq4
 
 Login in proxy services
 ```
-docker exec -it hivemq-proxy bash
+docker exec -it hivemq-cloud bash
 ```
 
 Inside configure the port HiveMQ from `/opt/hivemq-4.8.3/conf/config.xml`
